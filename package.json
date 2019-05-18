@@ -1,0 +1,19 @@
+{
+  "name": "MESSIAH",
+  "version": "1.0.0",
+  "description": "L'application de notre messie",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Bernier154",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "file-saver": "^2.0.1",
+    "lunicode-bubbles": "^1.0.1",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
